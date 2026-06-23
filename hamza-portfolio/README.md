@@ -12,7 +12,19 @@ A modern, interactive portfolio website for Hamza Shahzad showcasing AI/ML exper
 - **Dark Theme**: Premium dark theme with amber/gold accents
 - **Component-based**: Modular React architecture for easy maintenance
 
-<img width="796" height="438" alt="image" src="https://github.com/user-attachments/assets/e5d47625-2444-475c-9628-adb083ed8000" />
+
+
+## 🚀 Portfolio Demo
+<img width="914" height="434" alt="image" src="https://github.com/user-attachments/assets/64bfe769-4ac7-45cd-b182-84d12a115fed" />
+<img width="464" height="415" alt="image" src="https://github.com/user-attachments/assets/c1909134-677a-4438-825d-730c9e0d8951" />
+<img width="475" height="413" alt="image" src="https://github.com/user-attachments/assets/2618a492-fe2b-415a-be29-7dbebaff2dfc" />
+<img width="653" height="431" alt="image" src="https://github.com/user-attachments/assets/801d3156-f0a9-4571-8e15-1bf993b6aa35" />
+<img width="433" height="440" alt="image" src="https://github.com/user-attachments/assets/7aa41974-2fbc-48e7-881e-c58b3786e147" />
+
+
+
+
+
 
 ## 📁 Project Structure
 
