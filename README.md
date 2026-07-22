@@ -142,6 +142,7 @@ This project is licensed under the **MIT License**.
 **Hamza Shahzad** — AI Engineer
 
 - 💻 GitHub: [github.com/hamza01055](https://github.com/hamza01055)
+
 - 💼 LinkedIn: [linkedin.com/in/hamzashahzad](www.linkedin.com/in/hamza-shahzad-667602355)
 
 <div align="center">
