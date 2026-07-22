@@ -3,6 +3,13 @@
 Personal portfolio for **Hamza Shahzad**, an AI Engineer — built as a fully custom React site with scroll-linked animations, a live Three.js neural-network canvas in the hero, and a real project showcase instead of a static resume page.
 
 **Repo:** [github.com/hamza01055/Portfolio-Website](https://github.com/hamza01055/Portfolio-Website)
+<img width="960" height="540" alt="Screenshot 2026-07-22 121022" src="https://github.com/user-attachments/assets/87426f8f-51bd-4f18-a9ea-fef2ddf5e486" />
+<img width="960" height="540" alt="Screenshot 2026-07-22 121046" src="https://github.com/user-attachments/assets/bdac6839-d6d9-45f0-a193-c6e684951480" />
+<img width="960" height="540" alt="Screenshot 2026-07-22 121036" src="https://github.com/user-attachments/assets/5d138bc4-9314-4aea-bbae-04d5b26bf7c1" />
+<img width="960" height="540" alt="Screenshot 2026-07-22 121117" src="https://github.com/user-attachments/assets/00b29854-e137-42ef-819c-60ea56334d4b" />
+<img width="960" height="540" alt="Screenshot 2026-07-22 121128" src="https://github.com/user-attachments/assets/b32dcb53-1169-40a1-a050-27e70a325132" />
+
+<img width="960" height="540" alt="Screenshot 2026-07-22 121136" src="https://github.com/user-attachments/assets/e1e6cd35-31ed-40e6-85f9-11f6840d6c1c" />
 
 ## Stack
 
