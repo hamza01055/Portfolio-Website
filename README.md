@@ -9,8 +9,8 @@ A fully custom React portfolio featuring scroll-linked animations, a live Three.
 [**View Repo**](https://github.com/hamza01055/Portfolio-Website) · [**LinkedIn**](https://linkedin.com/in/hamzashahzad) · [**GitHub**](https://github.com/hamza01055)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&labelColor=20232a)
-![Vite](https://img.shields.io/badge/Vite-latest-646CFF?logo=vite&logoColor=white&labelColor=20232a)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38BDF8?logo=tailwindcss&logoColor=white&labelColor=20232a)
+![Vite](https://img.shields.io/badge/Vite-latest-646CFF?logo=vite&logoColor=white&labelColor=20232a)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-animations-e10098?labelColor=20232a)
 ![License](https://img.shields.io/badge/License-MIT-green?labelColor=20232a)
 
