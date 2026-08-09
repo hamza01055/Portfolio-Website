@@ -6,6 +6,7 @@
 
 A fully custom React portfolio featuring scroll-linked animations, a live Three.js neural-network hero, and real project case studies — more than a static resume page.
 
+
 [**View Repo**](https://github.com/hamza01055/Portfolio-Website) · [**LinkedIn**](https://linkedin.com/in/hamzashahzad) · [**GitHub**](https://github.com/hamza01055)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&labelColor=20232a)
