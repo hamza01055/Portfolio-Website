@@ -8,6 +8,7 @@
 
 
 
+
 A fully custom React portfolio featuring scroll-linked animations, a live Three.js neural-network hero, and real project case studies — more than a static resume page.
 
 
